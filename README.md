@@ -680,7 +680,7 @@ Password-Guard-Locket/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rahulg2004/Lovable-Project-1-Password-Guard-Locket.git
+git clone https://github.com/rahulg2004/Lovable-Project-1-Password-Strength-Checker.git
 ```
 
 ## 2. Navigate to the Project
