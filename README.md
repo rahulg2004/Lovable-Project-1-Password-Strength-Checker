@@ -1,4 +1,4 @@
-# 🔐 Password Guard Locket
+# 🔐 Password Strength Checker
 
 A modern, privacy-focused **Password Strength Checker and Secure Password Generator** built with React, TypeScript, Tailwind CSS, and TanStack Start.
 
